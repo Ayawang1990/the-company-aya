@@ -48,6 +48,7 @@
 
                 </form>
                 <p class="text-center small nt-3">Registerd already?<a href="../views">Login</a></p>
+                <p class="">modify</p>
             </div>
         </div>
     </div>
